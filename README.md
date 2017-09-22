@@ -1,6 +1,9 @@
 # ForPractice
+#<<<<<<< TengSecond
 
 
 
 
-Third try
+#Third try
+#=======
+#>>>>>>> master
